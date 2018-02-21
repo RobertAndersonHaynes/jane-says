@@ -1,0 +1,91 @@
+div.navbar {
+  background-color: #3A3A3A;
+  color: white;
+  height: 50px;
+  padding-top: 15px;
+  padding-left: 115px;
+}
+
+a {
+  color: #2C9AE5;
+  padding-left: 50px;
+  margin-left: 200px;
+  margin-bottom: 30px;
+}
+
+h1.page-title {
+  background-color: #49B5B5;
+  margin-left: 722px;
+  margin-top: 50px;
+  width: 300px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+
+}
+
+h3#hello {
+  background-color: #3A3A3A;
+  color: white;
+  margin-top: 10px;
+  height: 65px;
+  font-size: 24px;
+  padding-left: 10px;
+  padding-top: 13px;
+}
+
+p {
+  width: 500px;
+  margin-top: 18px;
+}
+
+body {
+  background-color: #FFFFFF;
+
+}
+.left,.right{
+  width:45%;
+  display: inline-block;
+  vertical-align: top;
+
+}
+div.small-12.small-centered.columns.resume h3 a {
+  color: white;
+  padding-left: 5px;
+  margin-left: 15px;
+  font-weight: bold;
+}
+
+div.education-tile {
+  border: 1px solid black;
+}
+
+div.skills h1{
+  border: 2px solid white;
+  padding-left: 10px;
+  background-color: #49B5B5;
+}
+
+div.small-3.columns {
+  border-bottom: 2px solid black;
+}
+
+div.skills h3{
+
+  padding-left: 10px;
+
+}
+
+div.skill {
+  border: 1px solid black;
+}
+
+img {
+  height: 700px;
+  width: 550px;
+  vertical-align: top;
+  padding-left: 20px;
+  margin-left: 55px;
+  margin-top: 15px;
+  box-shadow: 13px 10px 16px 0px #49B5B5;
+}
